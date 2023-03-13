@@ -28,7 +28,7 @@ int main()
 	InputT(ABC);
 	float area = DienTich(ABC);
 	cout << "\nDien tich tam giac la: " << setprecision(6) << area << endl;
-	return 1;
+	return 1206;
 }
 
 void InputD(DIEM& P)
