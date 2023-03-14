@@ -21,5 +21,5 @@ void Nhap(float& r)
 }
 float Xuly(float r)
 {
-	return 3 * 3.14 * r * r;
+	return 4 * 3.14 * r * r;
 }
