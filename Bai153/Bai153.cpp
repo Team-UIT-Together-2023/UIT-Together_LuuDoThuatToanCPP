@@ -1,5 +1,4 @@
 #include<iostream>
-#include<cmath>
 
 using namespace std;
 
@@ -16,15 +15,14 @@ void XuLy(int& n)
 {
 	int flag = 1;
 	int t = n;
-	while (t != 0)
+	for (int i = 1; t > 1; t /= 5)
 	{
-		int dv = t % 10;
-		if (dv % 2 == 0)
+		int du = t % 5;
+		if (du != 0)
 			flag = 0;
-		t = t / 10;
 	}
 	if (flag == 1)
-		cout << "Toan le";
+		cout << "co dang 5^m";
 	else
-		cout << "khong toan le";
+		cout << "khong co dang 5^m";
 }
