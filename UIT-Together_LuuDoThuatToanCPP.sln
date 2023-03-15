@@ -157,15 +157,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai119", "Bai119\Bai119.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai125", "Bai125\Bai125.vcxproj", "{EC162495-01BF-4BBA-9373-81CA3DD4D481}"
 EndProject
-<<<<<<< Updated upstream
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai003", "Bai003\Bai003.vcxproj", "{D9825C0B-82EB-4189-AC50-99C9C8D5F065}"
-=======
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai131", "Bai131\Bai131.vcxproj", "{955DB422-B22C-4D82-928C-D1A4707D3645}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai137", "Bai137\Bai137.vcxproj", "{1F1C98D7-28C0-4AB7-8ED4-E7BD4441729C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai143", "Bai143\Bai143.vcxproj", "{CFAF1DF9-C664-4268-94EE-21088EB3DDC5}"
->>>>>>> Stashed changes
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai149", "Bai149\Bai149.vcxproj", "{05AB3BE6-6A26-4228-91BD-9EE7445D9419}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -791,16 +789,6 @@ Global
 		{EC162495-01BF-4BBA-9373-81CA3DD4D481}.Release|x64.Build.0 = Release|x64
 		{EC162495-01BF-4BBA-9373-81CA3DD4D481}.Release|x86.ActiveCfg = Release|Win32
 		{EC162495-01BF-4BBA-9373-81CA3DD4D481}.Release|x86.Build.0 = Release|Win32
-<<<<<<< Updated upstream
-		{D9825C0B-82EB-4189-AC50-99C9C8D5F065}.Debug|x64.ActiveCfg = Debug|x64
-		{D9825C0B-82EB-4189-AC50-99C9C8D5F065}.Debug|x64.Build.0 = Debug|x64
-		{D9825C0B-82EB-4189-AC50-99C9C8D5F065}.Debug|x86.ActiveCfg = Debug|Win32
-		{D9825C0B-82EB-4189-AC50-99C9C8D5F065}.Debug|x86.Build.0 = Debug|Win32
-		{D9825C0B-82EB-4189-AC50-99C9C8D5F065}.Release|x64.ActiveCfg = Release|x64
-		{D9825C0B-82EB-4189-AC50-99C9C8D5F065}.Release|x64.Build.0 = Release|x64
-		{D9825C0B-82EB-4189-AC50-99C9C8D5F065}.Release|x86.ActiveCfg = Release|Win32
-		{D9825C0B-82EB-4189-AC50-99C9C8D5F065}.Release|x86.Build.0 = Release|Win32
-=======
 		{955DB422-B22C-4D82-928C-D1A4707D3645}.Debug|x64.ActiveCfg = Debug|x64
 		{955DB422-B22C-4D82-928C-D1A4707D3645}.Debug|x64.Build.0 = Debug|x64
 		{955DB422-B22C-4D82-928C-D1A4707D3645}.Debug|x86.ActiveCfg = Debug|Win32
@@ -825,7 +813,14 @@ Global
 		{CFAF1DF9-C664-4268-94EE-21088EB3DDC5}.Release|x64.Build.0 = Release|x64
 		{CFAF1DF9-C664-4268-94EE-21088EB3DDC5}.Release|x86.ActiveCfg = Release|Win32
 		{CFAF1DF9-C664-4268-94EE-21088EB3DDC5}.Release|x86.Build.0 = Release|Win32
->>>>>>> Stashed changes
+		{05AB3BE6-6A26-4228-91BD-9EE7445D9419}.Debug|x64.ActiveCfg = Debug|x64
+		{05AB3BE6-6A26-4228-91BD-9EE7445D9419}.Debug|x64.Build.0 = Debug|x64
+		{05AB3BE6-6A26-4228-91BD-9EE7445D9419}.Debug|x86.ActiveCfg = Debug|Win32
+		{05AB3BE6-6A26-4228-91BD-9EE7445D9419}.Debug|x86.Build.0 = Debug|Win32
+		{05AB3BE6-6A26-4228-91BD-9EE7445D9419}.Release|x64.ActiveCfg = Release|x64
+		{05AB3BE6-6A26-4228-91BD-9EE7445D9419}.Release|x64.Build.0 = Release|x64
+		{05AB3BE6-6A26-4228-91BD-9EE7445D9419}.Release|x86.ActiveCfg = Release|Win32
+		{05AB3BE6-6A26-4228-91BD-9EE7445D9419}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
