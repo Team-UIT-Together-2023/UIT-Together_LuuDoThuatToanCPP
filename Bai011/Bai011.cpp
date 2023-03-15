@@ -40,11 +40,11 @@ void InputD(DIEM& P)
 }
 void InputT(TAMGIAC& ABC)
 {
-	cout << "\nNhap toa do diem A:";
+	cout << "\nNhap toa do diem A(x1, y1):";
 	InputD (ABC.A);
-	cout << "\nNhap toa do diem B:";
+	cout << "\nNhap toa do diem B(x2, y2):";
 	InputD(ABC.B);
-	cout << "\nNhap toa do diem C:";
+	cout << "\nNhap toa do diem C(x3, y3):";
 	InputD(ABC.C);
 }
 
