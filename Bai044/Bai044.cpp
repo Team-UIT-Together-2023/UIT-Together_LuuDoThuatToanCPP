@@ -5,13 +5,12 @@ int main()
     int n;
     cout << "Nhap n: ";
     cin >> n;
-    int i = 2;
-    int count = 0;
+    float s = 0;
+    int i = 1;
     while (i <= n)
     {
-        if (n % i == 0)
-            count++;
-        i = i + 2;
+        s = s + (float)1 / (i * (i + 1) * (i + 2) * (i + 3));
+        i = i + 1;
     }
     cout << s;
     return 0;
