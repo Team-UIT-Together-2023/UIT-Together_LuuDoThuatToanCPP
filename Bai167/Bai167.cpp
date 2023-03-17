@@ -26,4 +26,4 @@ void XuLy(int n)
 		s = s + k + 1;
 	}
 	cout << "\nGia tri nguyen duong k thoa [S(k) = 1 + 2 + 3 +...+ k] < n  " << k;
-}
+} 
